@@ -1,0 +1,12 @@
+body {
+    background-color:whitesmoke;
+    height: 100vh; 
+    margin: 0;
+    overflow: hidden; 
+}
+
+section {
+    display: block;
+    margin: 20px auto 0; /* Center horizontally and add top margin */
+    width: 50%; /* Optional: Adjust width as needed */
+}
